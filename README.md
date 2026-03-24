@@ -1,6 +1,5 @@
 # Files
 * The notebook, main.ipynb, contains the report as well as the code for the application.
-* The zip file contains the primary notebook (main.ipynb), a lead database (leads.csv), this README file (README.md) and a few other image files that this notebook generated.
 
 # Instructions
 * Open the notebook and go through it in order to demo the application, review the evaluation results and read the analyses.
