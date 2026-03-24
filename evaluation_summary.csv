@@ -1,0 +1,4 @@
+Label,Accuracy,Precision (macro),Recall (macro)
+intent_level,0.8,0.81,0.794
+opportunity_size,0.98,0.983,0.98
+purchase_timeline,0.9,0.905,0.896
