@@ -13,6 +13,3 @@
 * Evaluation and analysis
 * Lightweight deployment
 * Application interface
-
-## Thank you
-* Thank you for reading and reviewing my work!
