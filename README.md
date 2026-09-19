@@ -2,6 +2,7 @@
 
 ## About
 * View the application and performance analysis in **main.ipynb**.
+* This project sits at the intersection of revenue operations, marketing and LLMs.
 * This project was created for a course on LLMs.
 
 ## Background
