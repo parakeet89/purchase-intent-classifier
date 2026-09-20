@@ -16,6 +16,7 @@ This application classifies inbound B2B sales leads across three dimensions usin
 `intent_level` — `high` / `medium` / `low` / `na`  
 `opportunity_size` — `large` / `medium` / `small` / `na`  
 `purchase_timeline` — `immediate` / `3-6 months` / `6+ months` / `na`  
+
 Each prediction is evaluated against ground truth labels using accuracy, precision, recall and confusion matrices.  
 
 ## Comparison to Traditional Methods - Lead Scoring
